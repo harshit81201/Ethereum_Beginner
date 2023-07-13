@@ -45,5 +45,3 @@ This project is licensed under the Solidity Assessment License - see the [Licens
 ## Authors
 
 - Harshit Kumar
-- Email: harshit81201@gmail.com
-- Twitter: [@Harshit](https://twitter.com/Harshit11220373)
